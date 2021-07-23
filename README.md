@@ -2,7 +2,7 @@
 
 ## People list
 
-* Souhaib Ben Taieb
+* Souhaib Ben Taieb [个人主页](https://souhaib-bentaieb.com/)
 
 ## deep learning based methods
 * 2014,Pattern Recognition Letters,A Review of Unsupervised Feature Learning and Deep Learning for Time-Series Modeling [链接](https://blog.csdn.net/weixin_40818267/article/details/102469100)
