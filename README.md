@@ -25,7 +25,7 @@
 * 2019,NIPS,Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting
 * 2019,arXiv,Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting [链接](https://github.com/google-research/google-research/tree/master/tft)
 * 2019,NIPS,Attentive state-space modeling of disease progression
-* 
+
 ### Hybrid
 * 2015,KDD,A deep hybrid model for weather forecasting
 * 2018,SIGIR,Modeling long-and short-term temporal patterns with deep neural networks
