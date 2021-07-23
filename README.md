@@ -40,3 +40,6 @@
 
 
 ## conventional naive methods
+
+## Related resources
+* [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series)
