@@ -48,3 +48,6 @@
 ## Related resources
 * [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series)
 * [awesome-time-series](https://github.com/cuge1995/awesome-time-series)
+* [transformer for time series](https://github.com/maxjcohen/transformer)
+* [seglearn](https://dmbee.github.io/seglearn/)
+* [sktime](https://github.com/alan-turing-institute/sktime)
