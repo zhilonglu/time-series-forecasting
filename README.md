@@ -51,3 +51,4 @@
 * [transformer for time series](https://github.com/maxjcohen/transformer)
 * [seglearn](https://dmbee.github.io/seglearn/)
 * [sktime](https://github.com/alan-turing-institute/sktime)
+* [Merlion: A Machine Learning Library for Time Series](https://github.com/salesforce/Merlion)
