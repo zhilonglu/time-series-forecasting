@@ -42,7 +42,7 @@
 ## conventional naive methods
 
 ## Codes
-
+* [A universal time series representation learning framework](https://github.com/yuezhihan/ts2vec)
 * [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting)
 
 ## Related resources
