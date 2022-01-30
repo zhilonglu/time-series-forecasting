@@ -41,6 +41,8 @@
 
 ## Anomaly detection
 * [RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection)
+* [Anomaly Detection Toolkit (ADTK)](https://github.com/arundo/adtk)
+* [A collection of anomaly detection methods](https://github.com/shubhomoydas/ad_examples)
 
 ## Time series classification
 * [Deep Learning for Time Series Classification](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline)
@@ -60,6 +62,7 @@
 * [STUMPY is a powerful and scalable Python library for modern time series analysis](https://github.com/TDAmeritrade/stumpy)
 * [A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
 * [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)
+* [PyTorch based Probabilistic Time Series forecasting framework based on GluonTS backend](https://github.com/zalandoresearch/pytorch-ts)
 * [tslearn:The machine learning toolkit for time series analysis in Python](https://github.com/tslearn-team/tslearn)
 * [A universal time series representation learning framework](https://github.com/yuezhihan/ts2vec)
 * [GluonTS: Probabilistic and Neural Time Series Modeling in Python](https://github.com/awslabs/gluon-ts)
@@ -73,3 +76,4 @@
 * [Deep Learning Models for time series prediction](https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction)
 * [Time series forecasting using pytorch，including MLP,RNN,LSTM,GRU, ARIMA, SVR, RF and TSR-RNN models](https://github.com/zhangxu0307/time_series_forecasting_pytorch)
 * [Continuously evaluated, functional, incremental, time-series forecasting](https://github.com/microprediction/timemachines)
+* [Deep learning PyTorch library for time series forecasting, classification, and anomaly detection](https://github.com/AIStream-Peelout/flow-forecast)
