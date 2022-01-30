@@ -34,16 +34,15 @@
 * 2019,arXiv,Deep factors for forecasting
 * 2020,International Journal of Forecasting,A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting
 
+## Papers and codes
+* [DeepAR](https://github.com/zhykoties/TimeSeries)
 
-## machine learning methods
-
-
-
-## conventional naive methods
-
-## Codes
+## Frameworks
 * [A universal time series representation learning framework](https://github.com/yuezhihan/ts2vec)
 * [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting)
+
+## Anomaly detection
+* [RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection)
 
 ## Related resources
 * [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series)
