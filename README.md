@@ -36,13 +36,17 @@
 
 ## Papers and codes
 * [DeepAR](https://github.com/zhykoties/TimeSeries)
-
-## Frameworks
-* [A universal time series representation learning framework](https://github.com/yuezhihan/ts2vec)
-* [pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting)
+* [Transformer Time Series Prediction](https://github.com/oliverguhr/transformer-time-series-prediction)
+* [Time series forecasting for individual household power prediction: ARIMA, xgboost, RNN](https://github.com/Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN)
 
 ## Anomaly detection
 * [RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection)
+
+## Time series classification
+* [Deep Learning for Time Series Classification](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline)
+* [Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)
+* [InceptionTime: Finding AlexNet for Time Series Classification](https://github.com/hfawaz/InceptionTime)
+* [pyts: a Python package for time series classification](https://github.com/johannfaouzi/pyts)
 
 ## Related resources
 * [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series)
@@ -50,5 +54,22 @@
 * [transformer for time series](https://github.com/maxjcohen/transformer)
 * [seglearn](https://dmbee.github.io/seglearn/)
 * [sktime](https://github.com/alan-turing-institute/sktime)
+* [Kats is a toolkit to analyze time series data](https://github.com/facebookresearch/Kats)
+* [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 * [Merlion: A Machine Learning Library for Time Series](https://github.com/salesforce/Merlion)
+* [STUMPY is a powerful and scalable Python library for modern time series analysis](https://github.com/TDAmeritrade/stumpy)
+* [A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
 * [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)
+* [tslearn:The machine learning toolkit for time series analysis in Python](https://github.com/tslearn-team/tslearn)
+* [A universal time series representation learning framework](https://github.com/yuezhihan/ts2vec)
+* [GluonTS: Probabilistic and Neural Time Series Modeling in Python](https://github.com/awslabs/gluon-ts)
+* [Automated Time Series Forecasting](https://github.com/winedarksea/AutoTS)
+* [Deep Learning for Time Series Forecasting](https://github.com/Azure/DeepLearningForTimeSeriesForecasting)
+* [Forecasting Best Practices](https://github.com/microsoft/forecasting)
+* [Time series prediction](https://github.com/LongxingTan/Time-series-prediction)
+* [State-of-the-art Deep Learning library for Time Series and Sequences](https://github.com/timeseriesAI/tsai)
+* [Time Series Prediction with Machine Learning](https://github.com/maxim5/time-series-machine-learning)
+* [PyFlux:time series library for Python](https://github.com/RJT1990/pyflux)
+* [Deep Learning Models for time series prediction](https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction)
+* [Time series forecasting using pytorch，including MLP,RNN,LSTM,GRU, ARIMA, SVR, RF and TSR-RNN models](https://github.com/zhangxu0307/time_series_forecasting_pytorch)
+* [Continuously evaluated, functional, incremental, time-series forecasting](https://github.com/microprediction/timemachines)
