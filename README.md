@@ -77,3 +77,4 @@
 * [Time series forecasting using pytorch，including MLP,RNN,LSTM,GRU, ARIMA, SVR, RF and TSR-RNN models](https://github.com/zhangxu0307/time_series_forecasting_pytorch)
 * [Continuously evaluated, functional, incremental, time-series forecasting](https://github.com/microprediction/timemachines)
 * [Deep learning PyTorch library for time series forecasting, classification, and anomaly detection](https://github.com/AIStream-Peelout/flow-forecast)
+* [AdaTime: A Systematic Evaluation of Domain Adaptation Algorithms on Time Series Data](https://github.com/emadeldeen24/AdaTime)
