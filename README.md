@@ -78,3 +78,4 @@
 * [Continuously evaluated, functional, incremental, time-series forecasting](https://github.com/microprediction/timemachines)
 * [Deep learning PyTorch library for time series forecasting, classification, and anomaly detection](https://github.com/AIStream-Peelout/flow-forecast)
 * [AdaTime: A Systematic Evaluation of Domain Adaptation Algorithms on Time Series Data](https://github.com/emadeldeen24/AdaTime)
+* [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://github.com/weifantt/DEPTS)
