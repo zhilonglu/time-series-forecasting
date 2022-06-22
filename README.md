@@ -50,6 +50,13 @@
 * [InceptionTime: Finding AlexNet for Time Series Classification](https://github.com/hfawaz/InceptionTime)
 * [pyts: a Python package for time series classification](https://github.com/johannfaouzi/pyts)
 
+
+## Transformer related
+* [DLinear](https://github.com/cure-lab/DLinear)
+* [Autoformer](https://github.com/thuml/Autoformer)
+* [FEDformer](https://github.com/MAZiqing/FEDformer)
+* [Pyraformer ](https://github.com/alipay/Pyraformer)
+
 ## Related resources
 * [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series)
 * [awesome-time-series](https://github.com/cuge1995/awesome-time-series)
