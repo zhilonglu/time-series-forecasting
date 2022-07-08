@@ -39,6 +39,7 @@
 * [Transformer Time Series Prediction](https://github.com/oliverguhr/transformer-time-series-prediction)
 * [Time series forecasting for individual household power prediction: ARIMA, xgboost, RNN](https://github.com/Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN)
 * [Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://github.com/Daikon-Sun/AdjustAutocorrelation)
+* [Multi-Variate Time Series Forecasting on Variable Subsets](https://github.com/google/vsf-time-series)
 
 ## Anomaly detection
 * [RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection)
