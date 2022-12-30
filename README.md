@@ -46,6 +46,7 @@
 * [RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection)
 * [Anomaly Detection Toolkit (ADTK)](https://github.com/arundo/adtk)
 * [A collection of anomaly detection methods](https://github.com/shubhomoydas/ad_examples)
+* [Deep Contrastive One-Class Time Series Anomaly Detection](https://github.com/ruiking04/COCA)
 
 ## Time series classification
 * [Deep Learning for Time Series Classification](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline)
