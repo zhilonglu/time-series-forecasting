@@ -91,3 +91,4 @@
 * [AdaTime: A Systematic Evaluation of Domain Adaptation Algorithms on Time Series Data](https://github.com/emadeldeen24/AdaTime)
 * [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://github.com/weifantt/DEPTS)
 * [pycaret:An open-source, low-code machine learning library in Python](https://github.com/pycaret/pycaret)
+* [TSF Paper](https://github.com/ddz16/TSFpaper)
